@@ -31,7 +31,7 @@ pytubefix==9.4.1
 선호 해상도 : preferred_resolution
 파일 저장 위치 : SAVE_PATH
 다운로드할 유튜브 url 리스트 : video_list
-디바이스가 AV1 코덱 지원한다면 line 138~142  활성화
+디바이스가 AV1 코덱 지원한다면 line 155~159  활성화
 ```
 <br>
 <br>
