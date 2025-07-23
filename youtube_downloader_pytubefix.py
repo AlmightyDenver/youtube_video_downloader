@@ -32,7 +32,7 @@ audio_only_itag = ''
 # preferred_resolution = '2160' # 4k
 preferred_resolution = '1440' # QHD
 # 파일 저장 위치
-SAVE_PATH = '/Users/denveralmighty/Downloads'
+SAVE_PATH = '/Users/username/Downloads'
 # 다운로드할 동영상 URL (형식 -> https://www.youtube.com/watch?v=) 
 video_list = [
     'https://www.youtube.com/shorts/jHc19tczuzk',
