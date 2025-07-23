@@ -38,4 +38,5 @@ pytubefix==9.4.1
 
 ## 실행 화면
 <img width="843" height="431" alt="image" src="https://github.com/user-attachments/assets/a2bc4de3-4bbd-4af9-a917-3b9a6dcec76d" />
+<img width="1372" height="746" alt="image" src="https://github.com/user-attachments/assets/78d53081-1155-4a16-ace4-4d948b3ff8da" />
 
