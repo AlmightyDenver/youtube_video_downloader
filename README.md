@@ -33,3 +33,9 @@ pytubefix==9.4.1
 다운로드할 유튜브 url 리스트 : video_list
 디바이스가 AV1 코덱 지원한다면 line 138~142  활성화
 ```
+<br>
+<br>
+
+## 실행 화면
+<img width="843" height="431" alt="image" src="https://github.com/user-attachments/assets/a2bc4de3-4bbd-4af9-a917-3b9a6dcec76d" />
+
