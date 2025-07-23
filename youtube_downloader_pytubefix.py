@@ -38,7 +38,7 @@ video_list = [
     'https://www.youtube.com/shorts/jHc19tczuzk',
     'https://www.youtube.com/watch?v=evYWmr4L-So',
     ]
-## !!디바이스가 AV1 코덱 지원한다면 line 138~142  활성화
+## !!디바이스가 AV1 코덱 지원한다면 line 155~159  활성화
 ############################################################
 
 
